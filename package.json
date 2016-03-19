@@ -1,0 +1,38 @@
+{
+  "name": "boiled",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A minimal boilerplate for Node.js server applications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knanil/boiled.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knanil/boiled/issues"
+  },
+  "author": {
+    "name": "Anil Kumar K N",
+    "email": "anil.nampoothiry@gmail.com",
+    "url": "http://www.manomart.com"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "boilerplace",
+    "server",
+    "ES2015",
+    "ES6"
+  ],
+  "engines": {
+    "node": ">=4.0"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^1.9.0",
+    "mocha": "^2.3.2"
+  }
+}
