@@ -1,14 +1,14 @@
 {
-  "name": "boiled",
+  "name": "chilled",
   "version": "0.1.0",
   "license": "MIT",
   "description": "A minimal boilerplate for Node.js server applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/knanil/boiled.git"
+    "url": "https://github.com/knanil/chilled.git"
   },
   "bugs": {
-    "url": "https://github.com/knanil/boiled/issues"
+    "url": "https://github.com/knanil/chilled/issues"
   },
   "author": {
     "name": "Anil Kumar K N",
